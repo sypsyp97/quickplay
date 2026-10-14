@@ -30,3 +30,7 @@ The script needs the Xcode command line tools (`swiftc`, `iconutil`).
 To play MKV, WebM and other formats, install
 [QuickLook Video](https://github.com/Marginal/QuickLookVideo). Then turn on its two
 Media Extensions in System Settings → General → Login Items & Extensions.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
